@@ -1,0 +1,16 @@
+body {
+    background-image : url("cork-board.png");
+    padding-top: 10vh;
+}
+
+form {
+    background:linear-gradient(to bottom , #ce5b25 ,#f3b280); 
+    color: whitesmoke;
+}
+
+.form-container {
+    border-radius: 30px;
+    padding: 10px;
+}
+
+
